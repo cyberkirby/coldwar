@@ -51,7 +51,7 @@ Scenes.coldwar = function(el, opts){
       key: 'defcon',
       info: 'Defcon',
       value: 5,
-      min: 1,
+      min: 2,
       max: 5
     }, {
       key: 'danger_close',
